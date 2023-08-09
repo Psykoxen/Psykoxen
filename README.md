@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=css,js,php,html,react,ts,symfony" />
+  <img src="https://skillicons.dev/icons?i=react,ts,css,js,php,html,symfony" />
   <img src="https://skillicons.dev/icons?i=c,java,py,kotlin" />
   <img src="https://skillicons.dev/icons?i=discord,bots" />
   <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,gitlab,postman,vscode" />
