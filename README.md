@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Psykoxen&theme=dark)  <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Psykoxen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Psykoxen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=psykoxen)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 </div>
