@@ -4,7 +4,7 @@
   
 ## 👨‍🎓 About Me
   <div align="left">
-🔭 I’m currently working on Fit Assistant</br>
+🔭 I’m currently working on Residence Keeper, Study Travelers & Fit Assistant</br>
 🌱 I’m currently learning React, React-Native, Salesforce, Apex</br>
 👨‍💻 All of my projects are available at https://www.avoillot.com</br>
 📫 How to reach me antoine.voillot@yahoo.fr</br>
