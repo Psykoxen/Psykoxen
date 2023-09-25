@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antoine</h1>
+<h1 align="center" text-decoration="none">Hi 👋, I'm Antoine</h1>
 <h3 align="center">IT Student and rescuer of French Red Cross</h3>
 
   
