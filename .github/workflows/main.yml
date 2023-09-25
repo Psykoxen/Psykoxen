@@ -20,5 +20,4 @@ jobs:
           SHOW_DAYS_OF_WEEK : "False"
           SHOW_EDITORS : "False"
           SHOW_SHORT_INFO : "False"
-          INPUT_DEBUG_LOGGING : "False"
-          DEBUG_RUN=True :  "False"
+          SHOW_LOC_CHART : "False"
