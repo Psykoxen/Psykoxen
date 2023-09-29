@@ -5,7 +5,7 @@
 ## 👨‍🎓 About Me
   <div align="left">
 🔭 I’m currently working on Residence Keeper, Study Travelers & Fit Assistant</br>
-🌱 I’m currently training on React, React-Native, VueJs, Salesforce, Apex</br>
+🌱 I’m currently training on React, Flutter and VueJsx</br>
 👨‍💻 All of my projects are available at https://www.avoillot.com</br>
 📫 How to reach me <a href=mailto:antoine.voillot@yahoo.fr >antoine.voillot@yahoo.fr</a></br>
 </div>
@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=react,ts,vue,vite,js,html,css,php,symfony" /></br>
   <img src="https://skillicons.dev/icons?i=c,java,py" /></br>
   <img src="https://skillicons.dev/icons?i=discord,bots" /></br>
-<img src="https://skillicons.dev/icons?i=kotlin" /></br>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter" /></br>
   <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,gitlab,postman,vscode" />
 </div>
 
