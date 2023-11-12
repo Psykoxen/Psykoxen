@@ -12,10 +12,11 @@
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,vue,vite,js,html,css,php,symfony" /></br>
+  <img src="https://skillicons.dev/icons?i=nuxt,react,vue,vite,symfony" /></br>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php" /></br>
   <img src="https://skillicons.dev/icons?i=c,java,py" /></br>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter" /></br>
   <img src="https://skillicons.dev/icons?i=discord,bots" /></br>
-<img src="https://skillicons.dev/icons?i=kotlin,flutter" /></br>
   <img src="https://skillicons.dev/icons?i=androidstudio,figma,github,gitlab,postman,vscode" />
 </div>
 
