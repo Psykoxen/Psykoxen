@@ -1,10 +1,10 @@
 <h1 align="center" text-decoration="none">Hi 👋, I'm Antoine</h1>
-<h3 align="center">IT Student and rescuer of French Red Cross</h3>
+<h3 align="center">Fullstack Developer and rescuer of French Red Cross</h3>
 
   
 ## 👨‍🎓 About Me
   <div align="left">
-🔭 I’m currently working on Deliveries</br>
+🔭 I’m currently working on Stormy</br>
 🌱 I’m currently training on Node, Flutter and Nuxt</br>
 👨‍💻 All of my projects are available at https://www.avoillot.com</br>
 📫 How to reach me <a href=mailto:antoine.voillot@yahoo.fr >antoine.voillot@yahoo.fr</a></br>
